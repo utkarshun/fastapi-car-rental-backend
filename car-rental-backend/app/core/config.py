@@ -1,0 +1,2 @@
+SECRET_KEY="mysecuritykey"
+ALGORITHM="HS256"
